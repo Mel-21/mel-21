@@ -1,6 +1,6 @@
 ## ₊˚✦ ๑ ☕﹕ Mel !! ˊˎ-
 - 🖥️﹕JavaScript, HTML, CSS Developer!
-- ☕ Designer
+- ☕﹕Designer
 <div align="center">
   <a href="https://github.com/Mel-21i">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mel-21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
