@@ -11,7 +11,7 @@
   <img align="center" alt="melCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 
-  <img align="right" alt="mer" height="150" style="border-radius:50px;" src="https://31.media.tumblr.com/5f45b0b7e5f63c730c5816b8fbfd23ed/tumblr_mqb410Hjhb1r6m3bqo1_500.gif">
+  <img align="right" alt="mer" height="150" style="border-radius:50px;" src="https://c.tenor.com/9OiQJTUGbIAAAAAC/persona5-futaba-sakura.gif">
 </div>
   
   ##
